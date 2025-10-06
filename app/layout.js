@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
               href="tel:+17158913993"
               className="text-[#3B82F6] font-semibold hover:text-[#60A5FA]"
             >
-              📞 (715) 555-1234
+              📞 (715) 891-3993
             </a>
 
             {/* Center: Title */}
