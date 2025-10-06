@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
 
             {/* Center: Title */}
             <h1 className="absolute left-1/2 transform -translate-x-1/2 text-2xl font-bold">
-              Clean Start
+              Clean Start House Washing & Custom Painting
             </h1>
 
             {/* Right: Nav */}
