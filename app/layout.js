@@ -2,7 +2,7 @@ import Link from "next/link";
 import "./globals.css";
 
 export const metadata = {
-  title: "Clean Star House Washing & Custom Painting",
+  title: "Clean Start House Washing & Custom Painting",
   description: "Professional painting and house washing services",
 };
 
